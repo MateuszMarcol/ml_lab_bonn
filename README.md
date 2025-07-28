@@ -1,3 +1,17 @@
+Dependencies:
+- keras==3.9.2
+- matplotlib==3.9.4
+- pandas==2.2.3
+- numpy==1.26.4
+- scikit-learn==1.6.1
+- scipy==1.13.1
+- tensorflow==2.16.2
+- tqdm==4.67.1
+
+
+Dataset can be downloaded here:
+https://www.cs.toronto.edu/~kriz/cifar.html
+
 CIFAR(10) Dataset: 
 https://www.cs.toronto.edu/~kriz/cifar.html
 
