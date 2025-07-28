@@ -9,9 +9,6 @@ Dependencies:
 - tqdm==4.67.1
 
 
-Dataset can be downloaded here:
-https://www.cs.toronto.edu/~kriz/cifar.html
-
 CIFAR(10) Dataset: 
 https://www.cs.toronto.edu/~kriz/cifar.html
 
